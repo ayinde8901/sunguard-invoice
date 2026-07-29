@@ -1,0 +1,17 @@
+.main-btn{
+
+display:block;
+width:100%;
+padding:15px;
+margin:20px 0;
+
+background:black;
+color:white;
+
+border:none;
+border-radius:5px;
+
+font-size:18px;
+cursor:pointer;
+
+}
